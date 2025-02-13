@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Salih Kaya</title>
-    <style>
-        a {
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
     <center>
         <h1 align="center">Hi 👋, I'm Salih Kaya</h1>
         <h3 align="center">A passionate software developer from Türkiye</h3>
@@ -67,5 +54,3 @@
             </a>
         </p>
     </center>
-</body>
-</html>
