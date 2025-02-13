@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Salih Kaya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
-<center>
+<p align="center">
 - 🔭 I’m currently working on **Touristiy**
-
 - 📫 How to reach me? **Kasaaa283@gmail.com**
-</center>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/salihkaya0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salihkaya0x" height="30" width="40" /></a>
 <a href="https://instagram.com/salihk_ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salihk_ya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@darksky0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@darksky0x" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@darksky0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@darksky0x" height="30" width="40" /></a>
 <a href="https://discord.gg/Dark_Sky0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dark_Sky0" height="30" width="40" /></a>
 </p>
 
