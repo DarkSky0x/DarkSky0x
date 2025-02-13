@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salih Kaya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
-<center>
+<p align="center">
  🔭 I’m currently working on <strong>Touristiy</strong><br>
  📫 How to reach me? <strong><a href="mailto:Kasaaa283@gmail.com">Kasaaa283@gmail.com</a></strong>
-</center>
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/salihkaya0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salihkaya0x" height="30" width="40" /></a>
