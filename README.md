@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salih Kaya</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 <p align="center">
- 🔭 I’m currently working on <strong>Touristiy</strong><br>
+ 🔭 I’m currently working on <strong>Nothing</strong><br>
  📫 How to reach me? <strong><a href="mailto:Kasaaa283@gmail.com">Kasaaa283@gmail.com</a></strong>
 </p>
 <h3 align="center">Connect with me:</h3>
